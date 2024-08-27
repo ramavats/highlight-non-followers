@@ -5,6 +5,8 @@
 
 This user script is designed to highlight non-followers in your X profile by modifying their background color. It uses a combination of CSS selectors and the MutationObserver API to dynamically identify non-followers as they load onto the page.
 
+![Screenshot](screenshot.png)
+
 **Requirements**
 ---------------
 
